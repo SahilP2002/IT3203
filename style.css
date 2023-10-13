@@ -19,8 +19,13 @@ h1{
 
 .logo_bar{
     background-color: black;
-    color: #ffffff;
+    color: white;
     font-family:'Courier New', Courier, monospace;
+    float: left;
+}
+
+.clear_fix{
+    clear: both;
 }
 
 .nav_header{
