@@ -18,10 +18,12 @@ h1{
 }
 
 .logo_bar{
-    background-color: black;
+    background-color:blueviolet;
     color: white;
     font-family:'Courier New', Courier, monospace;
     float: left;
+    display: inline;
+    width: max-content;
 }
 
 .clear_fix{
@@ -37,5 +39,6 @@ h1{
 
     color:blueviolet;
     font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
     
 }
