@@ -17,13 +17,20 @@ h1{
     color:burlywood;
 }
 
+#logo {
+    width:auto;
+    display: inline;
+    float:left;
+}
+
 .logo_bar{
     background-color:blueviolet;
     color: white;
     font-family:'Courier New', Courier, monospace;
     float: left;
     display: inline;
-    width: max-content;
+    padding-right: 169;
+   
 }
 
 .clear_fix{
@@ -37,8 +44,14 @@ h1{
 
 .nav_item{
 
-    color:blueviolet;
-    font-family: 'Times New Roman', Times, serif;
+    color:darkviolet;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
-    
+    background-color: white;
+    font-size: large;
+    padding-right: 110;
+}
+
+#first_nav_item{
+    padding-left: 5;
 }
