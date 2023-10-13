@@ -1,5 +1,5 @@
 body {
-    background-color: darkslateblue;
+    background-color: #ffffff;
     color: antiquewhite;
     font-size: 1.1em;
 }
@@ -15,4 +15,14 @@ h1{
 .colors {
 
     color:burlywood;
+}
+
+.nav_header{
+
+    color:blueviolet;
+}
+
+.nav_item{
+
+    color:blueviolet;
 }
