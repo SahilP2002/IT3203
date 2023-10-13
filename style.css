@@ -17,12 +17,20 @@ h1{
     color:burlywood;
 }
 
+.logo_bar{
+    background-color: black;
+    color: #ffffff;
+    font-family:'Courier New', Courier, monospace;
+}
+
 .nav_header{
 
-    color:blueviolet;
+    background-color: black;
 }
 
 .nav_item{
 
     color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
